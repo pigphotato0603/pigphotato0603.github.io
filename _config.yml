@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            My Little Storeage
 tagline:          'A Jekyll theme'
-description:      'college student's study meterial'
+description:      
 url:              https://fongandrew.github.io #base hostname & protocol for my site
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
