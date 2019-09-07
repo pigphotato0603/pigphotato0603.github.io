@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            My Little Storeage
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'college student's study meterial'
 url:              https://fongandrew.github.io #base hostname & protocol for my site
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
