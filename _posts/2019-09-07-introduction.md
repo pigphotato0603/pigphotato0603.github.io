@@ -1,6 +1,6 @@
 ---
 layout:post
-title:"Word2Vec의 기본적인 아이디어와 2가지 알고리즘"
+title: " 왜 제목이 안나오지... "
 ---
 
 ### Word2Vec과 CBOW, SKIP-GRAM 알고리즘에 대한 설명
