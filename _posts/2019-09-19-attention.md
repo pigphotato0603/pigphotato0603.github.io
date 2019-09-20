@@ -5,6 +5,10 @@ comment: true
 
 ---
 
+## 이미지 삽입 test
+
+![](https://brunch.co.kr/@bong/814)
+
 ## 1. introduction
 
 attention은 Neural Machine Translation과 다른 NLP 문제들을 해결하는데 state-of-art results를 만들어 내면서, 특히 word embedding 과 합쳐지면서 그 성능을 입증했습니다. attention 메커니즘은 다른 알고리즘, 예를 들면 BERT와 같은 알고리즘의 한 부분입니다. attention network에서 우리는 **transformer** 이란 한 종류의 네트워크를 만듭니다. 만약 transformer을 이해한다면, attention을 쉽게 이해할 수 있습니다. 그리고 transformer을 이해하기 위한 가장 best한 방법은 이전의 신경망과 비교대조를 하는 것입니다. transformer와 기존의 NN은 여러모로 다른데, 특히 input을 처리하는 프로세스와 input을 relevant features와 recombine하는 프로세스에서 다릅니다. 
