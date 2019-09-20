@@ -7,7 +7,7 @@ comment: true
 
 ## 이미지 삽입 test
 
-![](https://brunch.co.kr/@bong/814)
+![고양이 이미지](C:\Users\owner\Desktop\cat.png)
 
 ## 1. introduction
 
