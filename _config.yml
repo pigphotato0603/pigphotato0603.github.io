@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            My Little Storeage
-tagline:          'A Jekyll theme'
+title:            _Review_
+tagline:          'for paper'
 description:      
 url:              https://fongandrew.github.io #base hostname & protocol for my site
 baseurl:          
@@ -16,7 +16,7 @@ baseurl:
 
 author:
   name:           'ju young, Kim'
-  url:            https://twitter.com/fongandrewc
+  url:            # https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
