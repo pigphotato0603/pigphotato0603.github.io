@@ -1,6 +1,6 @@
 ---
 layout:post
-title: " attention papers(2)- Feed-forward& Disan attention "
+title: attention papers(2)- Feed-forward& Disan attention
 ---
 
 ## Feed-forward attention
