@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            _Review_
-tagline:          'A Jekyll theme'
+tagline:          'for paper'
 description:      
 url:              https://fongandrew.github.io #base hostname & protocol for my site
 baseurl:          
