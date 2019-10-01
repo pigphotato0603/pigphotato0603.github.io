@@ -1,6 +1,6 @@
 ---
-layout:post
-title: attention papers(1)- Bahdanu&Luong attention
+layout: post
+title: " attention papers(1)- Bahdanu&Luong attention "
 ---
 
 ## Attention - Bahdanau
